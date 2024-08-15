@@ -9,22 +9,4 @@
 Piyush-07-kumar/Piyush-07-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#include<stdio.h>
-int main () {
-int a;
-int b;
-int c;
 
-printf("enter the value of a : ");
-scanf("%d", &a);
-printf("enter the value of b : ");
-scanf("%d",&b);
- 
- c=a;
- a=b;
- b=c;
- printf("after swapping : a=%d\n, b=%d\n",a,b );
-
-
-return 0;
-}
